@@ -1,0 +1,18 @@
+
+body.cor{ 
+    background-color:rgb(209, 231, 200);
+}
+
+button.cor_botao1{
+    background-color:rgb(200, 206, 120);
+}
+button.cor_botao2{
+    background-color:rgb(131, 206, 124);
+}
+button.cor_botao3{
+    background-color:rgb(190, 24, 32);
+}
+
+nav.nav-pills{
+    padding-left: 20px;
+}
